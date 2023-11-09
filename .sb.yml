@@ -1,0 +1,10 @@
+type: 'node'
+version: '18'
+
+envs:
+  NEXT_PUBLIC_DRUPAL_BASE_URL: https://headless-d-10.plain-mouse-7b23.shapeblock.xyz
+  NEXT_IMAGE_DOMAIN: headless-d-10.plain-mouse-7b23.shapeblock.xyz
+
+resources:
+  cpu: "1"
+  memory: "1Gi"
